@@ -1,0 +1,7 @@
+venv/
+*.csv
+9) Car-Hacking Dataset/
+*.7z
+__pycache__/
+.ipynb_checkpoints
+*.zip
